@@ -45,6 +45,7 @@ body{
 header{
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 1rem 5rem;
 }
 
@@ -230,7 +231,7 @@ main{
         margin-left: 10%;
     }
     .robot-3d{
-        scale: 0.5;
+        scale: 0.8;
         top: -25%;
         right: 0;
     }
