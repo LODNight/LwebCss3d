@@ -67,6 +67,7 @@ nav a{
     transition: color 0.2s ease;
     text-decoration: none;
     color: inherit;
+    z-index: 9999;
 }
 
 nav a:hover{
@@ -83,6 +84,7 @@ nav a:hover{
     font-weight: 500;
     transition: background-color 0.2s ease;
     cursor: pointer;
+    z-index: 9999;
 }
 
 .btn-signing:hover{
